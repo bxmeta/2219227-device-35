@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Vadim Smirnov](https://up.htmlacademy.ru/htmlcss/35/user/2219227).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353).
 
 ---
 
